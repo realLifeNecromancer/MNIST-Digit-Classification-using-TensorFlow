@@ -54,8 +54,7 @@ The code provides a way to evaluate the classification accuracy of the trained m
 
 - Classification Accuracy: 92.43
 - Confusion Matrix:
-- 
-- 
+  
 ![confusion matrix single](https://github.com/realLifeNecromancer/MNIST-Digit-Classification-using-TensorFlow/assets/108059668/f9e53468-889b-40b9-a3a1-c6d39da3517e)
 
 ### Model with Hidden Layer
@@ -63,7 +62,6 @@ The code provides a way to evaluate the classification accuracy of the trained m
 - Classification Accuracy: 95.72
 - Confusion Matrix:
 
-- 
 ![Model with Hidden Layer](https://github.com/realLifeNecromancer/MNIST-Digit-Classification-using-TensorFlow/assets/108059668/61f831c9-c551-4c8c-a2bc-54d5b470aedb)
 
 ## License
